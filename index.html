@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scalable Dynamic Scientific Data Reduction</title>
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Ensure marked.js loads before scripts.js -->
+    <script src="js/marked.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <style>
+        .center-nav li {
+            font-size: 1.5em; /* Make listing items bigger */
+        }
+        .header-container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+        }
+        .header-title {
+            flex-grow: 1;
+            text-align: left;
+        }
+        .logo-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .logo {
+            max-height: 50px;
+        }
+        .funds-text {
+            font-size: 0.8em;
+            color: blue;
+            text-align: left;
+            max-width: 300px;
+            white-space: pre-line;
+        }
+        .center-nav a {
+            text-decoration: none;
+            padding: 10px;
+            display: inline-block;
+            color: #f0f0f0; /* Keep original font color */
+        }
+        .center-nav a.active {
+            background-color: #f0f0f0;
+            font-weight: bold;
+            color: black !important; /* Change to dark font only when active */
+        }
+    </style>
+</head>
+<body>
+    <header class="header-container">
+        <h1 class="header-title">Scalable Dynamic Scientific Data Reduction</h1>
+        <div class="funds-text">This work was supported by the U.S. Department of Energy, Office of Science,<br>Advanced Scientific Computing Research (ASCR), under contract DE-AC02-06CH11357.</div>
+        <div class="logo-container">
+            <img src="images/logo.png" alt="Logo" class="logo">
+        </div>
+    </header>
+    <nav>
+        <ul class="center-nav">
+            <li><a href="#" onclick="loadMarkdown('pages/introduction.md', this)">Introduction</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/publications.md', this)">Publications</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/teams.md', this)">Teams</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/downloads.md', this)">Downloads</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/applications.md', this)">Applications</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/awards.md', this)">Awards</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/talks.md', this)">Talks</a></li>
+        </ul>
+    </nav>
+    <main>
+        <div class="content-window">
+            <div id="content-frame" class="markdown-content"></div>
+        </div>
+    </main>
+    
+    <!-- Load default page on startup -->
+    <script>
+        function loadMarkdown(file, element) {
+            fetch(file)
+                .then(response => response.text())
+                .then(text => {
+                    document.getElementById('content-frame').innerHTML = marked.parse(text);
+                    document.querySelectorAll('.center-nav a').forEach(link => link.classList.remove('active'));
+                    if (element) {
+                        element.classList.add('active');
+                    }
+                })
+                .catch(error => console.error('Error loading markdown:', error));
+        }
+        
+        window.onload = function() {
+            loadMarkdown('pages/introduction.md', document.querySelector('.center-nav a'));
+        };
+    </script>
+</body>
+</html>
+
