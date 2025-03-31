@@ -1,6 +1,6 @@
 # Teams
 
-## Principle Investigator (PI)
+## Principle Investigator (PI) & Research Lead
 
 - [Sheng Di (Argonne National Laboratory)](https://web.cels.anl.gov/~sdi/)
 
