@@ -7,11 +7,12 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 ## Software/Library
 
 - [Libpressio](https://github.com/robertu94/libpressio): A generic meta-compressor caller library, which has integrated OptZConfig as well.
-- [OptZConfig](https://github.com/robertu94/libpressio_opt): A plugin for libpressio that provides optimization routines to configure compressors.
+- [LibpressioOpt/OptZConfig](https://github.com/robertu94/libpressio_opt): A plugin for libpressio that provides optimization routines to configure compressors.
+- [Libpressio-predict](https://github.com/robertu94/libpressio-predict): A framework for predicting compression ratios for lossy compressors and other key metrics in a generic way using LibPressio.
 - [cuSZp](https://github.com/szcompressor/cuSZp): An ultra-fast and user-friendly GPU error-bounded lossy compressor for floating-point data array (integrated into Libpressio)
 - [FZ-GPU](https://github.com/szcompressor/FZ-GPU): A fast and high-ratio lossy compressor for scientific computing applications on GPU (integrated into Libpressio)
-- [QoZ](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor  (integrated into Libpressio)
-- [QoZ2.0](https://github.com/szcompressor/QoZ/tree/2.0): Quality-oriented error-bounded lossy compressor version 2.0 (corresponding to the HPEZ paper: [HPEZ](https://dl.acm.org/doi/10.1145/3639259))  (integrated into Libpressio)
+- [QoZ](https://github.com/szcompressor/QoZ/tree/main): Quality-oriented error-bounded lossy compressor  (integrated into Libpressio)
+- [QoZ2.0](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor version 2.0 (corresponding to the HPEZ paper: [HPEZ](https://dl.acm.org/doi/10.1145/3639259))  (integrated into Libpressio)
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1  (integrated into Libpressio)
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config) (deprecated)
 - [SZp](https://github.com/szcompressor/szp): The CPU version of cuSZp (supporting OpenMP)  (integrated into Libpressio)
@@ -29,11 +30,18 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [SZx](https://github.com/szcompressor/SZx): A superfast error-bounded compressor [requires special permission to access]  (integrated into Libpressio)
 - [cpSZ](https://github.com/szcompressor/cpSZ): An SZ-based lossy compressor that preserves critical point feature for vector fields  
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit (partially integrated into Libpressio)
+- [ZCCL](https://zccl.org): First-ever compression-accelerated collective communications library, which can directly communicate and compute with compressed data.
 
 ## Tracking Supported Capability in Libpressio
 
-### July 2021
+### 2020
+- Jan 20, 2020 – created spack packages for LibPressio and OptZConfig. Created LibPressio-Opt/FRaZ/OptZConfig
+- Feb 12, 2020 – Added support for user-defined metrics to LibPressio-Opt
+- Feb 27, 2020 – Added MPI support to LibPressio-Opt
 
+### 2021
+- Jan 12, 2021 – added support for external metrics HTTP endpoints
+- Feb 17, 2021 – added HDF5 filter support
 - July 5, Added support for discrete choices to OptZConfig (e.g. which predictor)
 - July 16, Added support for SZ2’s multi-threaded mode
 - November 11, Added support for MGARD-GPU
