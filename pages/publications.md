@@ -50,7 +50,7 @@
 
 - Jiajun Huang, Sheng Di, Xiaodong Yu, Yujia Zhai, Zhaorui Zhang, Jinyang Liu, Xiaoyi Lu, Ken Raffenetti, Hui Zhou, Kai Zhao, Zizhong Chen, Franck Cappello, Yanfei Guo, Rajeev Thakur, "An Optimized Error-controlled MPI Collective Framework Integrated with Lossy Compression", in Proceedings of the 38th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2024), 2024.
 
-- Mingze Xia, Sheng Di, Franck Cappello, Pu Jiao, Kai Zhao, Jinyang Liu, Xuan Wu, Xin Liang, and Hanqi Guo, "Preserving Topological Feature with Sign-of-Determinant Predicates in Lossy Compression: A Case Study of Vector Field Critical Points", Proceedings of the 40th IEEE International Conference on Data Engineering (IEEE ICDE2024), Utrecht, Netherlands, May 13 - 16, 2024.
+- Mingze Xia, Sheng Di, Franck Cappello, Pu Jiao, Kai Zhao, Jinyang Liu, Xuan Wu, Xin Liang, and Hanqi Guo, "Preserving Topological Feature with Sign-of-Determinant Predicates in Lossy Compression: A Case Study of Vector Field Critical Points", Proceedings of the 40th IEEE International Conference on Data Engineering (IEEE ICDE2024), Utrecht, Netherlands, May 13-16, 2024.
 
 - Jinyang Liu, Sheng Di, Kai Zhao, Xin Liang, Sian Jin, Zizhe Jian, Jiajun Huang, Shixun Wu, Zizhong Chen, Franck Cappello, "High-performance Effective Scientific Error-bounded Lossy Compression with Auto-tuned Multi-component Interpolation", in ACM Special Interest Group on Management of Data (SIGMOD2024), 2024.
 
