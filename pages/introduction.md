@@ -12,13 +12,13 @@ The overarching goal of this project is to develop a scalable scientific data re
 
 ## Thruests
 
-- SDR will use numerical analysis, machine learning, and deep learning to optimize the specific design for a broad range of data reduction techniques.
+1. Hybrid Optimization Framework: SDR will use numerical analysis, machine learning, and deep learning to optimize the specific design for a broad range of data reduction techniques, which involves 6 different compression models.
 
-- The project will explore efficient machine learning based search algorithms to determine online the optimal data reduction solution (model and parameters). 
+2. Online Model Selection: The project will explore efficient machine learning based search algorithms to determine online the optimal data reduction solution (model and parameters). The core research and development includes efficient and accurate estimation of compression ratio and quality for different lossy compression models and compressors. 
 
-- The project will explore how to satisfy user-requirements (fidelity, speed, reduction ratio) efficiently and accurately. 
+3. User-Centric Optimization: The project will explore how to satisfy user-requirements (fidelity, speed, reduction ratio) efficiently and accurately. 
 
-- SDR will support multiple parallel heterogeneous environments and will be evaluated comprehensively by using diverse scientific applications on DOE leadership-class supercomputers.
+4. Scalability and Evaluation: SDR will support multiple parallel heterogeneous environments and will be evaluated comprehensively by using diverse scientific applications on DOE leadership-class supercomputers.
 
 ## Acknowledgement
 
