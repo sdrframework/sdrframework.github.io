@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Welcome to the the SDR project website. SDR is an DOE ECRP 2021 award.
 
@@ -19,3 +19,7 @@ The overarching goal of this project is to develop a scalable scientific data re
 - The project will explore how to satisfy user-requirements (fidelity, speed, reduction ratio) efficiently and accurately. 
 
 - SDR will support multiple parallel heterogeneous environments and will be evaluated comprehensively by using diverse scientific applications on DOE leadership-class supercomputers.
+
+## Acknowledgement
+
+his work was supported by the U.S. Department of Energy, Office of Science, Advanced Scientific Computing Research (ASCR), under contract DE-AC02-06CH11357.

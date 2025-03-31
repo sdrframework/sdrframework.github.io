@@ -6,23 +6,29 @@
 
 ## Technical Lead
 
-- Robert Underwood (Argonne National Laboratory)
+- [Robert Underwood (Argonne National Laboratory)](https://robertu94.github.io/)
 
 ## Students
 
-- Md Hasanur Rahman ()
-- Yafan Huang ()
-- Shihui Song ()
-- Tri Nguyen ()
-- Pu Jiao ()
-- Boyuan Zhang ()
+- Milan Shah (NCSU)
+- Md Hasanur Rahman (U. Iowa)
+- Yafan Huang (U. Iowa)
+- Shihui Song (U. Iowa)
+- Tri Nguyen (NCSU)
+- Pu Jiao (U. Kentucky)
+- Boyuan Zhang (Indianna University)
+- Khondoker Mirazul Mumenin (UNC Charlotte)
+- Jiajun Huang (U. Riverside)
+- Zizhe Jian (U. Riverside)
 
-## Collaborators or Former Students
+## Collaborators
 
-- Kai Zhao ()
-- Xin Liang ()
-- Jiannan Tian()
-- Jinyang Liu ()
+- Xiaodong Yu (SIT)
+- Kai Zhao (FSU)
+- Xin Liang (U. Kentucky)
+- Jiannan Tian(U. Kentucky)
+- Jinyang Liu (U. Houston)
+- Jinzhen Wang (UNC Charlotte)
 
 ## Other Contributors
 
