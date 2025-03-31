@@ -1,5 +1,7 @@
 # Paper/Workshop/Poster Awards
 
+- Xin Liang, Kai Zhao, Sheng Di, Sihuan Li, Robert Underwood, Ali M. Gok, Jiannan Tian, Junjing Deng, Jon C. Calhoun, Dingwen Tao, Zizhong Chen, Franck Cappello, "SZ3: A Modular Framework for Composing Prediction-Based Error-Bounded Lossy Compressors", IEEE Transactions on Big Data (IEEE TBD), 2022. (<mark>Best paper award elected for 2023 series</mark>)
+
 - Thomas Grutzmacher, Robert Underwood, Sheng Di, Franck Cappello, and Hartwig Anzt, "FRSZ2 for In-Register Block Compression Inside GMRES on GPUs", IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data, in the conjunction with The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2024), 2024. (<mark>Best paper award</mark>)
 
 - Yafan Huang, Sheng Di, Guanpeng Li, Franck Cappello, "cuSZp2: A GPU Lossy Compressor with Extreme Throughput and Optimized Compression Ratio",  IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2024), 2024. (<mark>Best paper finalist</mark>)
