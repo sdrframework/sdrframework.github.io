@@ -1,6 +1,6 @@
 # Downloads
 
-We have integrated the SDR components developed under this project into the Libpressio-featured framework, including Libpressio, Libpressio-predict, OptZConfig, etc.
+We have integrated the SDR components developed under this project into the Libpressio framework, including Libpressio, Libpressio-predict, OptZConfig, etc. A tutorial can be found [here](https://github.com/robertu94/libpressio_tutorial). A documentation can be found [here](https://robertu94.github.io/libpressio/).
 
 We have integrated into Libpressio 30+ lossy and lossless compressors across multiple different compression models (such as transform-based model, prediction-based model, HOSVD model). We also support different devices such as CPU and GPU. The compressors supported by our platform include SZ2, SZ3, ZFP, MGARD, SPERR, QoZ/QoZ2, SZp, cuSZp/cuSZp2, SZx, FZ-GPU, FPZIP, Zstd, FPC, etc.
 
@@ -18,12 +18,11 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [SZp](https://github.com/szcompressor/szp): The CPU version of cuSZp (supporting OpenMP)  (integrated into Libpressio)
 - [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs  (integrated into Libpressio)
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model  
-- [Interp-SZ/SZ3](https://github.com/szcompressor/SZ3): Spline-interpolation based error-bounded compressor  (integrated into Libpressio)
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor  
-- [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization  
+- [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization (integrated into Libpressio) 
 - [waveSZ](https://github.com/szcompressor/SZ_HLS): Vivado HLS implementation of SZ for Xilinx FPGAs  
 - [vecSZ](https://github.com/szcompressor/vecSZ): Vectorized code based on the Single Instruction Multiple Data (SIMD) parallel paradigm  
-- [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy customization  
+- [SZ3](https://github.com/szcompressor/SZ3): SZ with loosely-coupled stages support easy customization - Spline-interpolation based error-bounded compressor by default. (integrated into Libpressio)  
 - [Pastri-SZ](https://github.com/szcompressor/SZ): A lossy compressor optimized for GAMESS Two-electronic integrals datasets  (integrated into Libpressio)
 - [Roibin-SZ](https://github.com/szcompressor/SZ): Roibin-SZ - customized for EXAFEL datasets (see `example/roibin_example` in SZ2.1 for details)  (integrated into Libpressio)
 - [MMD-SZ](https://github.com/szcompressor/MMD-SZ): A lossy compressor optimized for Materials Molecular Dynamics Simulation Datasets  (integrated into Libpressio)
