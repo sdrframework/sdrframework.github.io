@@ -1,4 +1,4 @@
-# Teams
+# Team
 
 ## Principle Investigator (PI) & Research Lead
 
@@ -6,7 +6,7 @@
 
 ## Technical Lead
 
-- [Robert Underwood (Argonne National Laboratory)](https://robertu94.github.io/)
+- [Robert Underwood (Argonne National Laboratory)](https://robertu94.github.io/about)
 
 ## Students
 

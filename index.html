@@ -75,6 +75,17 @@
             white-space: pre-wrap;
             word-break: break-word;
 	}
+	.flex-figures {
+    	    display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            gap: 20px;
+	}
+	.flex-figures figure {
+    	    flex: 1 1 300px;
+	    max-width: 600px;
+            text-align: center;
+	}    
     </style>
 </head>
 <body>
@@ -89,7 +100,7 @@
         <ul class="center-nav">
             <li><a href="#" onclick="loadMarkdown('pages/introduction.md', this)">Introduction</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/publications.md', this)">Publications</a></li>
-            <li><a href="#" onclick="loadMarkdown('pages/teams.md', this)">Teams</a></li>
+            <li><a href="#" onclick="loadMarkdown('pages/teams.md', this)">Team</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/downloads.md', this)">Downloads</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/applications.md', this)">Applications</a></li>
             <li><a href="#" onclick="loadMarkdown('pages/awards.md', this)">Awards</a></li>
