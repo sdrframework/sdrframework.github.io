@@ -10,7 +10,7 @@ Welcome to the SDR project website. SDR is an DOE ECRP 2021 award, which aims to
   <figure>
     <img src="/pages/images/data-reduction-models.png" alt="isolated" style="max-width: 60%; height: auto;">
     <figcaption>
-      Figure 2: Data Reduction Models (<a href="https://example.com">lossy compression paper</a>)
+      Figure 2: Data Reduction Models (<a href="https://arxiv.org/abs/2404.02840">lossy compression paper</a>)
     </figcaption>
   </figure>
 </div>
