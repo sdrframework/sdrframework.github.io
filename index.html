@@ -85,7 +85,18 @@
     	    flex: 1 1 300px;
 	    max-width: 600px;
             text-align: center;
-	}    
+	}   
+	@media (max-width: 600px) {
+            nav ul.center-nav {
+            flex-wrap: wrap;
+            justify-content: center;
+    	}
+    	nav ul.center-nav li {
+            flex: 1 1 45%;
+            text-align: center;
+            margin: 5px 0;
+    	}
+	}
     </style>
 </head>
 <body>
