@@ -33,7 +33,7 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit (partially integrated into Libpressio)
 - [ZCCL](https://zccl.org): First-ever compression-accelerated collective communications library, which can directly communicate and compute with compressed data.
 
-## Tracking Supported Capability in Our SDR Framework with Libpressio
+## Tracking Features from SDR Framework Contributed to LibPressio
 
 ### 2020
 - Jan 20, 2020 – created spack packages for LibPressio and OptZConfig. Created LibPressio-Opt/FRaZ/OptZConfig
