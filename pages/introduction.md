@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the SDR project website. SDR is an DOE ECRP 2021 award, which aims to combine all the three critical aspects of data reduction for users, including data, requirement and technology, as shown in the following image.
+Welcome to the SDR project website. SDR is an [DOE ECRP 2021 award](https://science.osti.gov/early-career), which aims to combine all the three critical aspects of data reduction for users, including data, requirement and technology, as shown in the following image.
 
 <div class="flex-figures">
   <figure>
