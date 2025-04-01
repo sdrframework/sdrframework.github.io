@@ -13,7 +13,7 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [Libpressio-predict](https://github.com/robertu94/libpressio-predict): A framework for predicting compression ratios for lossy compressors and other key metrics in a generic way using LibPressio. ([paper](https://dl.acm.org/doi/10.1145/3624062.3625124))
 - [cuSZp](https://github.com/szcompressor/cuSZp): An ultra-fast and user-friendly GPU error-bounded lossy compressor for floating-point data array (integrated into Libpressio) ([paper1](https://dl.acm.org/doi/10.1145/3581784.3607048),[paper2](https://dl.acm.org/doi/10.1109/SC41406.2024.00021))
 - [FZ-GPU](https://github.com/szcompressor/FZ-GPU): A fast and high-ratio lossy compressor for scientific computing applications on GPU (integrated into Libpressio) ([paper](https://dl.acm.org/doi/abs/10.1145/3588195.3592994))
-- [QoZ](https://github.com/szcompressor/QoZ/tree/main): Quality-oriented error-bounded lossy compressor  (integrated into Libpressio)
+- [QoZ](https://github.com/szcompressor/QoZ/tree/main): Quality-oriented error-bounded lossy compressor  (integrated into Libpressio) ([paper](https://ieeexplore.ieee.org/document/10046076))
 - [QoZ2.0/HPEZ](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor version 2.0 (integrated into Libpressio) ([paper](https://dl.acm.org/doi/10.1145/3639259))
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1  (integrated into Libpressio) ([paper](https://ieeexplore.ieee.org/document/8622520))
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config) (already integrated into SZ2) ([paper](https://ieeexplore.ieee.org/document/7967203))
@@ -30,7 +30,7 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [MMD-SZ](https://github.com/szcompressor/MMD-SZ): A lossy compressor optimized for Materials Molecular Dynamics Simulation Datasets  (integrated into Libpressio) ([paper](https://ieeexplore.ieee.org/document/9835212))
 - [SZx](https://github.com/szcompressor/SZx): A superfast error-bounded compressor [requires special permission to access]  (integrated into Libpressio) ([paper](https://dl.acm.org/doi/10.1145/3502181.3531473))
 - [cpSZ](https://github.com/szcompressor/cpSZ): An SZ-based lossy compressor that preserves critical point feature for vector fields ([paper](https://ieeexplore.ieee.org/document/10597764)) 
-- [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit (partially integrated into Libpressio)
+- [QCAT](https://github.com/szcompressor/qcat): Quick Compression Analysis Toolkit (partially integrated into Libpressio) ([paper](https://dl.acm.org/doi/10.1177/1094342017737147))
 - [ZCCL](https://zccl.org): First-ever compression-accelerated collective communications library, which can directly communicate and compute with compressed data. ([paper1](https://dl.acm.org/doi/10.1145/3650200.3656636), [paper2](https://dl.acm.org/doi/10.1109/SC41406.2024.00110))
 
 ## Tracking Features from SDR Framework Contributed to LibPressio
