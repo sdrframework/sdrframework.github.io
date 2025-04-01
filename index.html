@@ -49,6 +49,32 @@
             font-weight: bold;
             color: black !important; /* Change to dark font only when active */
         }
+	body, html {
+	    margin: 0;
+            padding: 0;
+            overflow-x: hidden;
+	}
+	main {
+            padding: 20px;
+            box-sizing: border-box;
+            max-width: 100%;
+	}
+	.content-window {
+            max-width: 100%;
+            overflow-x: auto;
+            word-wrap: break-word;
+	}
+	.markdown-content {
+            max-width: 98%;
+            word-break: break-word;
+            overflow-wrap: break-word;
+            white-space: normal;
+	}
+	.markdown-content pre {
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-break: break-word;
+	}
     </style>
 </head>
 <body>
