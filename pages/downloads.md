@@ -1,6 +1,8 @@
 # Downloads
 
-We have integrated the SDR components developed under this project into the Libpressio framework, including Libpressio, Libpressio-predict, OptZConfig, etc. A tutorial can be found [here](https://github.com/robertu94/libpressio_tutorial). A documentation can be found [here](https://robertu94.github.io/libpressio/).
+We have integrated the SDR components developed under this project into the Libpressio framework, including Libpressio, Libpressio-predict, OptZConfig, etc. 
+
+A tutorial about Libpressio can be found [here](https://github.com/robertu94/libpressio_tutorial). A documentation can be found [here](https://robertu94.github.io/libpressio/).
 
 We have integrated into Libpressio 30+ lossy and lossless compressors across multiple different compression models (such as transform-based model, prediction-based model, HOSVD model). We also support different devices such as CPU and GPU. The compressors supported by our platform include SZ2, SZ3, ZFP, MGARD, SPERR, QoZ/QoZ2, SZp, cuSZp/cuSZp2, SZx, FZ-GPU, FPZIP, Zstd, FPC, etc.
 
