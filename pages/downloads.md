@@ -17,8 +17,8 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 - [QoZ2.0/HPEZ](https://github.com/szcompressor/QoZ): Quality-oriented error-bounded lossy compressor version 2.0 (integrated into Libpressio) ([paper](https://dl.acm.org/doi/10.1145/3639259))
 - [SZ 2](https://github.com/szcompressor/SZ): CPU version of SZ v2.1  (integrated into Libpressio) ([paper](https://ieeexplore.ieee.org/document/8622520))
 - [SZ 1](https://github.com/szcompressor/SZ): CPU version of SZ v1.4 (integrated in v2.1; can be turned on in sz.config) (already integrated into SZ2) ([paper](https://ieeexplore.ieee.org/document/7967203))
-- [SZp](https://github.com/szcompressor/szp): The CPU version of cuSZp (supporting OpenMP)  (integrated into Libpressio) (separated from hZCCL) ([paper]())
-- [cuSZ](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs  (integrated into Libpressio)
+- [SZp](https://github.com/szcompressor/szp): The CPU version of cuSZp (supporting OpenMP)  (integrated into Libpressio) (separated from hZCCL) ([paper](https://dl.acm.org/doi/10.1109/SC41406.2024.00110))
+- [cuSZ/cuSZ-i](https://github.com/szcompressor/cuSZ): CUDA version of SZ for GPUs  (integrated into Libpressio) ([paper1](https://dl.acm.org/doi/10.1145/3410463.3414624), [paper2](https://dl.acm.org/doi/10.1109/SC41406.2024.00019))
 - [kSZ](https://github.com/szcompressor/kokkosSZ): A portable accelerator implementation of SZ using Kokkos programming model  
 - [DeepSZ](https://github.com/szcompressor/DeepSZ): Deep neural network (DNN) model compressor ([paper](https://dl.acm.org/doi/10.1145/3307681.3326608))
 - [SZauto](https://github.com/szcompressor/SZauto): SZ with automatic parameter optimization (integrated into Libpressio) ([paper](https://dl.acm.org/doi/10.1145/3369583.3392688))
