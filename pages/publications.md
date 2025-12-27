@@ -1,5 +1,49 @@
 # Publications
 
+1. Zhonghao Chen, Weicong Chen, Duo Zhang, Kibaek Kim, Guanpeng Li, Sheng Di, Xiaoyi Lu, "FedDES: Discrete Event Performance Simulation for Large-Scale Federated Learning Systems", in ACM/IEEE Symposium on Edge Computing (SEC2025), 2025.
+
+1. Zizhe Jian, Pu Jiao, Bohan Zhang, Sheng Di, Xin Liang, Guanpeng Li, Huangliang Dai, Zizhong Chen, Franck Cappello, "Lightweight CNN-Based Artifact Reduction for Scientific Error-bounded Lossy Compression", in IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Songkai Ma, Zhaorui Zhang, Sheng Di, Benben Liu, Xiaodong Yu, Guanpeng Li, Xiaoyi Lu, Dan Wang, "Compression Error Sensitivity Analysis for Different Experts in MoE Model Inference", in IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Ziwei Qiu, Jinyang Liu, Kai Zhao, Robert Underwood, Sheng Di, "Benchmarking Cutting-Edge Scientific Error-Bounded Lossy Compressors on Correlation-Based Rate-Distortion", in IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025, best paper runner-up.
+
+1. Connor Bohannon, Kazutomo Yoshii, Sheng Di, Franck Cappello, Antonino Miceli, "Design and Implementation of a Custom Hardware Accelerator for SZx Compression in Chipyard", in IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025, best paper award.
+
+1. Darren Ng, Duo Zhang, Sheng Di, Zhaorui Zhang, Xiaoyi Lu, "Can Lossy Compression Benefit NVMe-Based I/O?",  in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025, [poster].
+
+1. Milan Shah, Xiaodong Yu, Sheng Di, Michela Becchi, Franck Cappello, "Exploring Lossy Compression of Activation Data for Emerging AI Accelerators: A Case Study on the Graphcore IPU", IEEE International Symposium on Workload Characterization (IEEE IISWC2025).
+
+1. Md Hasanur Rahman, Sheng Di, Guanpeng Li, Franck Cappello, "Modeling Rate-Distortion for Endpoint-Aware Lossy Compression in Scientific Data Transfer", in IEEE International Performance, Computing, and Communications Conference (IEEE IPCCC2025), 2025.
+
+1. Yongfeng Qiu, Yuxiao Li, Xin Liang, Yafan Huang, Guanpeng Li, Sheng Di, Franck Cappello, Hanqi Guo, "Lossy Parallel Visualization of Large-Scale Volume Data with Error-Bounded Image Compositing", in The 15th IEEE Symposium on Large Data Analysis and Visualization (IEEE LDAV 2025) in conjunction with IEEE VIS 2025, 2025.
+
+1. Zhaorui Zhang, Sheng Di, Benben Liu, Zhuoran Ji, Guanpeng Li, Xiaoyi Lu, Amelie Chi Zhou, Khalid Ayed Alharthi, Jiannong Cao, "FedEFsz: Fair Cross-Silo Federated Learning System with Error-Bounded Lossy Compression", in IEEE Transactions on Distributed and Computer Systems (IEEE TPDS), 2025.
+
+1. Yuanjian Liu, Sheng Di, Jiajun Huang, Zhaorui Zhang, Kyle Char, Ian Foster, "Ocelot: An Interactive, Efficient Distributed Compression-As-a-Service Platform With Optimized Data Compression Techniques", in IEEE Transactions on Distributed and Computer Systems (IEEE TPDS), 2025.
+
+1. Franck Cappello, Robert Underwood, Yuri Alexeev, Alison Baker, Ebru Bozdag, Martin Burtscher, Kyle Chard, Sheng Di, Kyle Gerad Felker, et al, "What to Support: When You are Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression", in IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Yafan Huang, Sheng Di, Guanpeng Li, Franck Cappello, "GPU Lossy Compression for HPC Can Be Versatile and Ultra-Fast", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Shixun Wu, Jinwen Pan, Jinyang Liu, Jiannan Tian, Ziwei Qiu, Jiajun Huang, Kai Zhao, Xin Liang, Sheng Di, Zizhong Chen, Franck Cappello, "Boosting Scientific Error-Bounded Lossy Compression through Optimized Synergistic Lossy-Lossless Orchestration", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Yafan Huang, Sheng Di, Robert Underwood, Peco Myint, Miaoqi Chu, Guanpeng Li, Nicholas Schwarz, Franck Cappello, "lsCOMP: Efficient Light Source Compression", IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.
+
+1. Tianhao Wu, Da Yan, Qihao Cheng, Lyuheng Yuan, Sheng Di, Jiao Han, Zhongyi Huang, and Ji Cheng, "CompreGel: Efficient Distributed Graph Propagation via Error-Bounded Lossy Message Compression", in 54th International Conference on Parallel Processing (ACM ICPP2025), 2025.
+
+1. Jinyang Liu, Pu Jiao, Kai Zhao, Xin Liang, Sheng Di, and Franck Cappello, "QPET: A Versatile and Portable Quantity-of-Interest-preservation Framework for Error-Bounded Lossy Compression", in 51st International Conference on Very Large Database (VLDB 2025), 2025. 
+
+1. Zhaorui Zhang, Sheng Di, Kai Zhao, Sian Jin, Dingwen Tao, Zhuoran Ji, Benben Liu, Khalid Ayed Alharthi, Jiannan Cao, and Franck Cappello, "FedCSpc: A Cross-Silo Federated Learning System with Error-Bounded Lossy Parameter Compression", in IEEE Transactions on Distributed and Computer Systems (IEEE TPDS), 2025.
+
+1. Sheng Di,  Jinyang Liu, Kai Zhao, Xin Liang, Robert Underwood, et al. "A Survey on Error-Bounded Lossy Compression for Scientific Datasets", ACM Computing Survey (ACM CSUR), 2025.
+
+1. Zhuoxun Yang, Sheng Di, Longtao Zhang, Ruoyu Li, Ximiao Li, Jiajun Huang, Jinyang Liu, Franck Cappello, and Kai Zhao, "IPComp: Interpolation Based Progressive Lossy Compression for Scientific Applications", in International 34th Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2025), 2025. best paper nominee.
+
+1. Jiajun Huang, Sheng Di, Yafan Huang, Zizhong Chen, Franck Cappello, Yanfei Guo and Rajeev Thakur, "ghZCCL: Advancing GPU-aware Collective Communications with Homomorphic Compression", in International Conference on Supercomputing (ACM ICS2025), 2025.
+
+1. Boyuan Zhang, Yafan Huang, Sheng Di, Fengguang Song, Guanpeng Li, and Franck Cappello, "Pushing the Limits of GPU Lossy Compression: A Hierarchical Delta Approach", in International Conference on Supercomputing (ACM ICS2025), 2025. best paper nominee.
+
 1. Longtao Zhang, Ruoyu Li, Congrong Ren, Sheng Di, Jinyang Liu, Jiajun Huang, Robert Underwood, Pascal Grosset, Dingwen Tao, Xin Liang, Hanqi Guo, Franck Cappello, Kai Zhao, "LCP: Enhancing Scientific Data Management with Lossy Compression for Particles", in ACM Special Interest Group on Management of Data (SIGMOD2025), 2025. 
 
 1. Pu Jiao, Sheng Di, Mingze Xia, Xuan Wu, Jinyang Liu, Xin Liang, and Franck Cappello, "Improving the Efficiency of Interpolation-Based Scientific Data Compressors with Adaptive Quantization Index Prediction", in Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2025), 2025. 
