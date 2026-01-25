@@ -1,5 +1,19 @@
 # Publications
 
+1. Pu Jiao, Sheng Di, Jianan Tian, Mingze Xia, Xuan Wu, Yang Zhang, Xin Liang, Franck Cappello, "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Congrong Ren, Robert Underwood, Sheng Di, Emrecan Kutay, Zarija Lukic, Aylin Yener, Franck Cappello, "FFCz: Fast Fourier Correction for Spectrum-Preserving Lossy Compression of Scientific Data", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Bo Jiang, Taolue Yang, Youyuan Liu, Xubin He, Sheng Di, Sian Jin, "PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Shihui Song, Robert Underwood, Sheng Di, Peng Jiang, Franck Cappello, "Designing Domain-Specific Compilers for Lossy Compression: A Case Study on Wafer-Scale Engine", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Shouwei Gao, Xu Zheng, Dongsheng Luo, Sheng Di, Wenqian Dong, "LUMOS: Democratizing SciML Workflows with L0-Regularized Learning for Unified Feature and Parameter Adaptation", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Yuxiao Li, Mingze Xia, Xin Liang, Bei Wang, Robert Underwood, Sheng Di, Hemant Sharma, Dishant Beniwal, Franck Cappello, and Hanqi Guo, "pMSz: A Distributed Parallel Algorithm for Correcting Morse-Smale Segmentations for Lossy Compression", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Ning Yan, Sheng Di, Kai Zhao, and Lipeng Wan, "Eureka: Enabling Fine-Grained Access and Range Queries on Compressed Scientific Data via Data-Index Co-Compression", in 51st International Conference on Very Large Database (VLDB 2025), 2025.
+
 1. Zhonghao Chen, Weicong Chen, Duo Zhang, Kibaek Kim, Guanpeng Li, Sheng Di, Xiaoyi Lu, "FedDES: Discrete Event Performance Simulation for Large-Scale Federated Learning Systems", in ACM/IEEE Symposium on Edge Computing (SEC2025), 2025.
 
 1. Zizhe Jian, Pu Jiao, Bohan Zhang, Sheng Di, Xin Liang, Guanpeng Li, Huangliang Dai, Zizhong Chen, Franck Cappello, "Lightweight CNN-Based Artifact Reduction for Scientific Error-bounded Lossy Compression", in IEEE/ACM The 10th International Workshop on Data Analysis and Reduction for Big Scientific Data (DRBSD), in conjunction with IEEE/ACM The International Conference for High Performance computing, Networking, Storage and Analysis (IEEE/ACM SC2025), 2025.

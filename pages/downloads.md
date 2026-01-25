@@ -8,7 +8,7 @@ We have integrated into Libpressio 30+ lossy and lossless compressors across mul
 
 ## Software/Library
 
-- [Libpressio](https://github.com/robertu94/libpressio): A generic meta-compressor caller library, which has integrated OptZConfig as well. ([paper](https://ieeexplore.ieee.org/document/9652579))
+- [Libpressio](https://github.com/robertu94/libpressio): A generic compressor management library, which has integrated multiple compression ratio quality estimation algorithms as well. ([paper](https://ieeexplore.ieee.org/document/9652579))
 - [LibpressioOpt/OptZConfig](https://github.com/robertu94/libpressio_opt): A plugin for libpressio that provides optimization routines to configure compressors. ([paper](https://ieeexplore.ieee.org/document/9730115))
 - [Libpressio-predict](https://github.com/robertu94/libpressio-predict): A framework for predicting compression ratios for lossy compressors and other key metrics in a generic way using LibPressio. ([paper](https://dl.acm.org/doi/10.1145/3624062.3625124))
 - [cuSZp](https://github.com/szcompressor/cuSZp): An ultra-fast and user-friendly GPU error-bounded lossy compressor for floating-point data array (integrated into Libpressio) ([paper1](https://dl.acm.org/doi/10.1145/3581784.3607048),[paper2](https://dl.acm.org/doi/10.1109/SC41406.2024.00021))

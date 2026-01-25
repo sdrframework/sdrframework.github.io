@@ -1,4 +1,15 @@
 # Invited Talks
+
+- 2025, Nov., Tutorial speaker at Compression for Science Data Tutorial in SC2025, St. Louis, MO, USA.
+
+- 2025, July 8, Invited talk at 11th CODESIGN Workshop, Osaka, Japan.
+
+- 2025, May, Invited talk at 17th JLESC workshop, Lemont, IL, USA.
+
+- 2025, March 25, Invited talk at DOE PI meeting, Frisco, TX, USA.
+
+- 2024, Nov., Tutorial speaker at Compression for Scientific Data tutorial in IEEE/ACM SC2024, Atlanta, GA, USA.
+
 - 2024, July 22, Invited talk at CoDAC Correct Data Compression workshop, Montreal, Canada.
 
 - 2024, May 29th, Invited seminar talk at Stevens Institute of Technology
