@@ -18,6 +18,8 @@
 
 # Other Awards
 
-- Sheng Di elected to ACM Senior Member (2024).
+- Sheng Di elected to ACM Senior Member (2024) and ACM Distinguished Member (2025).
+
+- Sheng Di received the IEEE TCSC (Technical Committee on Scalable Computing) Award for Excellence in Scalable Computing (Middle Career Researcher) in 2025.
 
 - R&D 100 award -- 2021 (in recognition of leading SZ: A Lossy Compression Framework for Scientific Data).
