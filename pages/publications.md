@@ -1,5 +1,29 @@
 # Publications
 
+1. Shan Huang, Zhijing Ye, Zhaorui Zhang, Sheng Di, Jiamin Wang, Wendy Hui Wang, Xiaodong Yu, "Noise-Calibrated Lossy Compression for Privacy Leakage Reduction in Federated Learning", in Federated Foundation Models at the Edge workshop (FFM@Edge), in conjunction with 46th IEEE International Conference on Distributed Computing Systems (IEEE ICDCS26).
+
+1. Viral Shah, Harikrishna Tummalapalli, Shivam Barwey, Riccardo Balin, Ramesh Balakrishnan, Paul Fischer, Sheng Di, Franck Cappello, "Solver-Integrated Lossy and Lossless Compression for Scalable Flow Simulations", in Platform for Advanced Scientific Computing (PASC26), 2026.
+
+1. Shan Huang, Zhijing Ye, Jiamin Wang, Zhaorui Zhang, Jie Fu, Wendy Hui Wang, Sheng Di, Xiaodong Yu, "In-Depth Exploration of Differentially Private Quantization for Privacy-Preserving and Communication-Efficient Federated Learning", The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (IEEE DSN26), 2026.
+
+1. Sujata Sinha, Sheng Di, Vishwas Rao, Robert Undrwood, David Lenz, Zizhe Jian, Zhuoxun Yang, Kai Zhao, Lingjia Liu, Franck Cappello, "Bridging Information Theory and Practice for Scientific Lossy Compression", in The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2026), 2026.
+
+
+1. Zhuoxun Yang, Ruoyu Li, Amit Subrahmanya, Vishwas Rao, Sheng Di, Robert Underwood, Longtao Zhang, Jinyang Liu, Franck Cappello, Kai Zhao, "TZ: Achieving High-Ratio Scientific Data Compression on GPUs with Global Data Decomposition", in The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2026), 2026.
+
+1. Longtao Zhang, Ruoyu Li, Zhuoxun Yang, Robert Underwood, Sheng Di, Daoce Wang, Jinyang Liu, Jiajun Huang, Franck Cappello, Kai Zhao, "OPAL: On-demand Progressive Accelerated Scientific Lossy Compression", in The 35th ACM International Symposium on High-Performance Parallel and Distributed Computing (ACM HPDC2026), 2026.
+
+1. Xuan Wu, Sheng Di, Tripti Agarwal, Kai Zhao, Xin Liang, Franck Cappello, "Enabling Homomorphic Analytical Operations on Compressed Scientific Data with Multi-stage Decompression", in Proceedings of the 42nd IEEE International Conference on Data Engineering (IEEE ICDE2026), 2026.
+
+1. Changqing Li, Shouwei Guo, Kai Zhao, Sheng Di, Wenqian Dong, "Evaluating LLM Coding Agents on SZ-Family Lossy Compression Across Architectures", in The Second Workshop on HPC for AI Foundation Models & LLMs for Science (HPAI4S2026), in conjunction with Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
+
+1. Yuke Li, Darren Ng, Arjun Kashyap, Sheng Di, Guanpeng Li, Xiaoyi Lu, "PACER: A Userspace Network Rate Controller in MPI with Adaptive Compression for Parallel Applications",  in International Conference on Supercomputing (ACM ICS2026), 2026.
+
+1. Ruoyu Li, Yafan Huang, Longtao Zhang, Zhuoxun Yang, Sheng Di, Boyuan Zhang, Jiajun Huang, Jinyang Liu, Jiannan Tian, Guanpeng Li, Fengguang Song, Hanqi Guo, Franck Cappello, Kai Zhao, "GPZ: GPU-Accelerated Lossy Compressor for Particle Data", in International Conference on Supercomputing (ACM ICS2026), 2026.
+
+1. Yafan Huang, Sheng Di, Guanpeng Li, "Not All Errors Are Equal: A Systematic Study of Error Propagation in Large Language Model Inference", in International Conference on Supercomputing (ACM ICS2026), 2026, .
+Bo Jiang, Taoluo Yang, Youyuan Liu, Sheng Di, Sian Jin, "EmbdC: Error-Bounded Lossy Video Embedding Compression For On-Device LLM Inference", in The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing (IEEE/ACM CCGrid 2026), 2026.
+
 1. Pu Jiao, Sheng Di, Jianan Tian, Mingze Xia, Xuan Wu, Yang Zhang, Xin Liang, Franck Cappello, "Mitigating Artifacts in Pre-quantization Based Scientific Data Compressors with Quantization-aware Interpolation", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
 
 1. Congrong Ren, Robert Underwood, Sheng Di, Emrecan Kutay, Zarija Lukic, Aylin Yener, Franck Cappello, "FFCz: Fast Fourier Correction for Spectrum-Preserving Lossy Compression of Scientific Data", in Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IEEE IPDPS2026), 2026.
